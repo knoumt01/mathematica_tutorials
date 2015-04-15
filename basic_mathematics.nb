@@ -1,0 +1,62 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1396,         53]
+NotebookOptionsPosition[      1016,         36]
+NotebookOutlinePosition[      1429,         52]
+CellTagsIndexPosition[      1386,         49]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[TextData[{
+ "A set of tutorials for ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ " 10 by Wolfram. The purpose of this repo is to both educate others on how \
+to utilize this powerful tool as well as to ensure that my own ability to use \
+tool stays semi-fresh."
+}], "Title",
+ CellChangeTimes->{{3.638101197528906*^9, 3.6381012897007785`*^9}}],
+
+Cell["", "Outline1",
+ CellChangeTimes->{3.638101290622653*^9}]
+}, Open  ]]
+},
+WindowSize->{775, 874},
+WindowMargins->{{Automatic, 247}, {19, Automatic}},
+FrontEndVersion->"10.0 for Microsoft Windows (32-bit) (July 1, 2014)",
+StyleDefinitions->FrontEnd`FileName[{"Utility"}, "Outline.nb", 
+  CharacterEncoding -> "WindowsANSI"]
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 355, 8, 426, "Title"],
+Cell[938, 32, 62, 1, 36, "Outline1"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
